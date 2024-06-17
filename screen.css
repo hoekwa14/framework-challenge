@@ -72,6 +72,12 @@ form{
     border-radius: 20px;
 }
 
+.masthead {
+    background: no-repeat bottom / cover url('Images/dggq6ly-b986e12c-6495-4ca2-8519-4f25fa786469.jpg');
+    height: 250px;
+    border-radius: 20px;
+}
+
 hr {
     background-color: var(--color-bg-secondary);
     border: none;
