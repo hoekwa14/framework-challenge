@@ -45,6 +45,14 @@ html {
     scroll-behavior: smooth;
 }
 
+.sticky {
+    background: #fff;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    border-bottom: 1px dotted #ccc;
+}
 @media (prefers-reduced-motion: reduce) {
     html {
         scroll-behavior: auto;
