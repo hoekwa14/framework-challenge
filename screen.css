@@ -44,6 +44,10 @@ body {
     border-bottom: 15px solid #424242;
 }
 
+.about-header{
+    margin-left: 15px;
+}
+
 footer,
 header,
 main {
