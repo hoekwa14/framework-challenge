@@ -108,6 +108,11 @@ section aside:hover {
     display: none;
 }
 
+form{
+    background: #fff;
+    margin: auto;
+}
+
 /* Headers */
 article header,
 div header,
