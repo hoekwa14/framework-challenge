@@ -54,6 +54,7 @@ html {
     padding: 10px;
     border-bottom: 1px dotted #ccc;
 }
+
 @media (prefers-reduced-motion: reduce) {
     html {
         scroll-behavior: auto;
