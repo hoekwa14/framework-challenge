@@ -57,7 +57,7 @@ table{
     padding: 10px;
     color: #ccc;
     border-spacing: 10px 25px;
-    float: right;
+    float: none;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
   }
