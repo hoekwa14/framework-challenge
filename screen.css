@@ -62,6 +62,12 @@ table{
     border-bottom-right-radius: 20px;
   }
 
+blockquote {
+    background: #ccc;
+    border-radius: 20px;
+    
+}
+
 hr {
     background-color: var(--color-bg-secondary);
     border: none;
