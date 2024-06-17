@@ -36,7 +36,7 @@ article aside {
 body {
     background: var(--color-bg);
     color: var(--color-text);
-    font-family: var(--font-family);
+    font-family: Helvetica, sans-serif;
     line-height: var(--line-height);
     margin: 0;
     overflow-x: hidden;
