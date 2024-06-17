@@ -55,6 +55,11 @@ html {
     border-bottom: 1px dotted #ccc;
 }
 
+.logo{
+    border-radius: 20px;
+
+}
+
 @media (prefers-reduced-motion: reduce) {
     html {
         scroll-behavior: auto;
