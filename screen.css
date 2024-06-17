@@ -51,6 +51,17 @@ main {
     padding: 3rem 1rem;
 }
 
+table{
+    background: #424242;
+    border-radius: 20px;
+    padding: 10px;
+    color: #ccc;
+    border-spacing: 10px 25px;
+    float: right;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+
 hr {
     background-color: var(--color-bg-secondary);
     border: none;
