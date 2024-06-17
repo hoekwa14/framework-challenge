@@ -63,9 +63,9 @@ table{
   }
 
 blockquote {
-    background: #ccc;
+    background: no-repeat bottom / cover #fff;
     border-radius: 20px;
-    
+
 }
 
 hr {
