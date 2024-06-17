@@ -77,6 +77,13 @@ form{
     height: 500px;
 }
 
+.centerlogo{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .details{
     margin: auto;
     width: 85%;
